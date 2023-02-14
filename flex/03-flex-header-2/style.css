@@ -53,15 +53,11 @@ ul {
 .right-links {
   display: flex;
   align-items: center;
+  gap: 16px;
 }
 
 .left-links {
   margin-right: auto;
-  gap: 16px;
-}
-
-.right-links {
-  gap: 16px;
 }
 
 .links {
